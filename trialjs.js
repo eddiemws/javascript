@@ -99,6 +99,12 @@ const Names = {
 
 };
 
+// outputing the object and method //
+//the first edwin mwangi is direct acess of object, while second is access to its method.//
+document.getElementById("eigth").innerHTML =
+ Names.firstName + " " + Names.lastName + " " + "<br>" + Names.fullName();
+
+
 
 
 
