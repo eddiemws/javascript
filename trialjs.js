@@ -66,6 +66,13 @@ let a, b, c;
 
 
 //function//
+ function Operators () {
+    let text1 = 20;
+    let text2 = 5;
+    text2 +=1000;
+    results = text1 + text2;
+    document.getElementById("sixth").innerHTML = results;
+ }
 
 
 
