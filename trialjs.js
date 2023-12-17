@@ -4,12 +4,7 @@ function myFunction () {
     document.getElementById("third").style.color = 'black';
     // document.getElementById("demo").innerHTML= 'This is a Javascript document'
 }
-function myFunction2 () {
-    document.getElementById("first").style.backgroundColor = 'black';
-    document.getElementById("second").style.color = 'red';
-    document.getElementById("third").style.color = 'blue';
-    document.getElementById("forth").style.color = 'red';
-}
+
 
 
 
