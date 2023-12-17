@@ -6,7 +6,12 @@ function myFunction () {
 }
 
 
-
+function myFunction2 () {
+    document.getElementById("first").style.backgroundColor = 'black';
+    document.getElementById("second").style.color = 'red';
+    document.getElementById("third").style.color = 'blue';
+    document.getElementById("forth").style.color = 'red';
+}
 
 
 
