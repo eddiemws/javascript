@@ -30,9 +30,7 @@ function Console () {
     console.log (2 + 1);
 }
 
- function Console1 () {
-    console.log(3*5000);
- }  
+
 
 let a, b, c;
  a=5;
