@@ -15,9 +15,7 @@ function myFunction2 () {
 
 
 
-function Write () {
-    document.write (4*1000000);
-}
+
 
 function Alert () {
     window.alert ("Eddy you will make it in life and achieve your dreams. Don't worry ");
