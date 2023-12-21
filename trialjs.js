@@ -48,13 +48,7 @@ let a, b, c;
     document.getElementById ("third").innerHTML = num3;
  }
 
- function Subtraction () {
-    number1 = 70;
-    number2 = 40;
-    result = number1 - number2;
-    var number1, number2;
-    document.getElementById("fifth").innerHTML = result;
- }
+
 
  function MyName() {
     let first_Name, last_Name, full_name;
