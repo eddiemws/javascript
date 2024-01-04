@@ -18,20 +18,6 @@
 <p id="question1"></p>
 
 
-<label id="form0A">
-    <input type="radio" name="ans1" value="Berlin">Berlin
-</label>
-<label id="form0B">
-    <input type="radio" name="ans1" value="Madrid">Madrid
-</label>
-
-<label id="form0C">
-    <input type="radio" name="ans1" value="Paris">Paris
-</label>
-
-<label id="form0D">
-    <input type="radio" name="ans1" value="Rome">Rome
-</label>
 
 
 
